@@ -1,0 +1,14 @@
+# Blender 3.5.1 MTL File: 'Jerrycan.blend'
+# www.blender.org
+
+newmtl Jerrycan..NoRust
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/model/models/Jerrycan/Materials/Jerrycan_Diffuse.jpg
+map_Ks F:/model/models/Jerrycan/Materials/Jerrycan_Roughness.jpg
+map_Ns F:/model/models/Jerrycan/Materials/Jerrycan_Roughness.jpg
+map_refl F:/model/models/Jerrycan/Materials/Jerrycan_Metal.jpg
+map_Bump -bm 1.000000 F:/model/models/Jerrycan/Materials/Jerrycan_Bump.jpg
